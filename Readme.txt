@@ -1,4 +1,4 @@
-# <your_repo_name>
+# SI-GuidedProject-526653-1688106042
 ## The Simpsons Data Analysis
 
 #### TEAM MEMBERS
@@ -12,12 +12,12 @@ _All the team members are from VIT Chennai Campus._
 
 ### Greetings to evaluator!
 
-This repository holds the work we have completed as part of the Data Analytics Summer Internship program under Smart Bridge. In the **_Assignments.zip_** we have uploaded all the assignment 
+This repository holds the work we have completed as part of the Data Analytics Summer Internship program under Smart Bridge. In the **_Assignments.txt_** has the google drive link for the **Assignments** folder is pasted. That folder contains all the assignment 
 files of each team member.
 
 <br>
 
-The **_Project Files.zip_** contains the below folders
+The **_Project Files.txt_** has the google drive link for the **Project Files** folder, which contains the below folders
 
  1. The source code of our project website is in the **_Web Interface Implementation_** folder along with flask deployment code and websites assets.
  2. The datasets we have used for analysis is in the **_Datasets_** folder.
@@ -31,6 +31,7 @@ Appendix section has the google drive links to the following
   1. Project demo video.
   2. A folder containing the video demonstration of each project step we carried out.
   3. A folder containing all files related to web interface implementation. 
+
 
 <br>
 
@@ -58,5 +59,4 @@ But to present our datasets to you without need of connecting to datasets, we ar
 
 <br>
 
-We have tried to consolidate work in the best possible manner. And we have also tried to give references and credits to the resources we have used wherever necessary. In case of any 
-unchecked error, we apologize for it. We would like to thank Smart Bridge for giving this opportunity to explore and expand our skill set.
+We have tried to consolidate work in the best possible manner. And we have also tried to give references and credits to the resources we have used wherever necessary. And as instructed instead of uploading zip files we have uploaded text file containing the google drive link of the required folders. In case of any  unchecked error, we apologize for it. We would like to thank Smart Bridge for giving this opportunity to explore and expand our skill set.
